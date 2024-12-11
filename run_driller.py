@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# This script is copied from:
+# https://grimmcyber.com/guided-fuzzing-with-driller/
+
 import errno
 import os
 import os.path
